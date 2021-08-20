@@ -37,8 +37,9 @@
 
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stahk-collab&show_icons=true&locale=en&layout=compact" alt="stahk-collab" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stahk-collab&show_icons=true&locale=en&layout=compact" alt="stahk-collab" />
+<br></p>
 <br>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=stahk-collab&show_icons=true&locale=en" alt="stahk-collab" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=stahk-collab&show_icons=true&locale=en" alt="stahk-collab" /></p>
 
