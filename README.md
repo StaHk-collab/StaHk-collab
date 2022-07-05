@@ -2,19 +2,6 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Harekrushna Mahapatra</h1>
 
-
-## 🙋‍♂️ About Me
-
-- 🔭 I’m currently pursuing Integrated M Sc in Mathematics from NIT Rourkela
-
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 📫 How to reach me **hkmahapatra24@gmail.com**
-
-- ⚡ Fun fact **I play games and go to the GYM very often.**
-
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
