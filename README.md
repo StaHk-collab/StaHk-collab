@@ -11,7 +11,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🏢 Currently crafting scalable systems at **The Times of India**
+- 🏢 Currently crafting scalable systems at **The Times of India (TOI), Times Internet Ltd.**
 - 💡 Obsessive about clean architecture, performance tuning & automation
 - 🧠 Always learning something new — databases, design patterns, and dev tools
 - 🛠️ Passionate about solving real-world problems with code
