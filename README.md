@@ -29,6 +29,8 @@
 
 📧 **Email:** [hkmahapatra24@gmail.com](mailto:hkmahapatra24@gmail.com) 
 
+📧 **Website:** [hkmahapatra.netlify.app](https://hkmahapatra.netlify.app/)
+
 <br>
 
 | Platforms      | Links |
