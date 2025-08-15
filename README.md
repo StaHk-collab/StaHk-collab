@@ -47,6 +47,7 @@
 | ![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white) | [hackerrank.com/hkmahapatra24](https://www.hackerrank.com/hkmahapatra24) |
 | ![HackerEarth](https://img.shields.io/badge/-HackerEarth-323754?style=flat&logo=hackerearth&logoColor=white) | [hackerearth.com/@hkmahapatra24](https://www.hackerearth.com/@hkmahapatra24) |
 | ![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-1f8a43?style=flat&logo=geeksforgeeks&logoColor=white) | [auth.geeksforgeeks.org/user/hkmahapatra](https://auth.geeksforgeeks.org/user/hkmahapatra/profile) |
+| ![Qwiklabs](https://img.shields.io/badge/-Qwiklabs-4285F4?style=flat&logo=googlecloud&logoColor=white) | [cloudskillsboost.google/public_profiles/a01cff1f-841e-47ca-8a11-a51e11da0729](https://www.cloudskillsboost.google/public_profiles/a01cff1f-841e-47ca-8a11-a51e11da0729) |
 
 ---
 
